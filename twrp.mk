@@ -44,4 +44,4 @@ TW_NO_USB_STORAGE := true
 
 # Recovery
 PRODUCT_COPY_FILES += \
-    device/sony/shinano-common/rootdir/twrp.fstab:recovery/root/etc/twrp.fstab
+    device/sony/shinano/rootdir/twrp.fstab:recovery/root/etc/twrp.fstab
