@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher A20E558918D9510E 1527753567 -0700\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_device_sony_castor_windy.git\nnonce 1527753586-4F72557A26C9DD8CA9097C555E24C6928BE537F2\n\n0000000000000000000000000000000000000000 a8db437797f32d997162534147d85963a91d63d6 refs/for/cr-6.1\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJbD6tfAAoJEKIOVYkY2VEOtd0IAINIJieaoJTMqa6vjOcx4o2S\n4rF3vcMUEaQWqDpEdMSVt8rzwBz1QHKGS8G+zX7BefDy2l3O2xcyq5YhgbMjvTwa\nMl5NskQJ5Oo2/ng5oE3s1mpQn+2ENQC4mBxYe/u1/oqVqBLOJe/9DNrPtvXHla72\n9ZywalNC2dHVK/cv4U9C8FaoiS5FNVakcrzshEDMun7QCQLgdhCaIvuij0auRfXD\n+KzC0fh47O4vF7WMAxW+vcXFMCG9u5UNhEe5gaLJ3MvacXOxi9ip+9OTEE03oTz0\nMdkCqNf6VokAaaZRnGKaeN7Yllued0eb6MbToIjuJcGqc3GnWsZxTq+tBrhhoB4\u003d\n\u003dH7nA\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
